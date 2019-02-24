@@ -1,0 +1,36 @@
+header {
+    background-color: #8b9dc3;
+}
+/* NAVBAR STYLES */
+nav {
+    float: right;
+}
+
+nav li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+li a {
+    color: black;
+    padding-right: 10px;
+}
+
+.intro {
+    clear: both;
+    padding-bottom: 20px;
+}
+
+/* ABOUT SECTION STYLING */
+#about {
+    margin-top: 20px;
+}
+
+/* PORTFOLIO SECTION STYLES */
+
+/* RESUME SECTION STYLES */
+.resume {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
